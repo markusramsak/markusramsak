@@ -3,4 +3,5 @@
 - 💞️ I’m looking to collaborate on PHP libraries
 - Im selling the SaaS named wowDAS
 - For several years I integrate Stripe Terminal and Stripe Checkout via API.
+- I develop Apps with Angular and Primeng and PHP REST API
 - My homepage: https://wowdas.at
